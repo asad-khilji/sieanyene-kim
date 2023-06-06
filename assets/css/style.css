@@ -133,7 +133,30 @@ section {
   margin-top: 25px;
 }
 
+/* apply styling to the services section */
+.services .section-title{
+  text-align: center;
+  font-size: 55px;
+  padding-bottom: 20px;
+}
 
+.services {
+  text-align: center;
+}
+
+.services p {
+  font-size: 23px;
+  font-family: 'Alex Brush';
+}
+
+.services .col-3 {
+  flex-basis: 33.3%;
+  padding: 40px;
+}
+
+.title {
+  padding-bottom: 20px;
+}
 
 
 
