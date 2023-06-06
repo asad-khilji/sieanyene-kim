@@ -107,6 +107,36 @@ section {
   font-size: 16px;
 }
 
+/* apply styling to about me section */
+.about-me {
+  background-color: #ffc6c3;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.col-2 {
+  flex-basis: 50%;
+}
+
+.about-me .col-2 img {
+  height: 350px;
+  object-fit: contain;
+  overflow: hidden;
+}
+
+.about-me .col-2 p {
+  margin-left: -290px;
+  margin-top: 25px;
+}
+
+
+
+
+
 
 
 
