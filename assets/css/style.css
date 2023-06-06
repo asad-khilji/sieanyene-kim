@@ -226,6 +226,38 @@ section {
   font-size: 20px;
 }
 
+/* apply styling to store section */
+.store {
+  text-align: center;
+  background-color: #ffc6c3;
+}
+
+.store .section-title {
+  font-size: 55px;
+  padding-bottom: 20px;
+}
+
+.store .content {
+  font-size: 23px;
+}
+
+.col-3 img {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+  overflow: hidden;
+}
+
+.store .shop {
+  color: #ffc6c3;
+  background-color: #69645b;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+
+
 
 
 
