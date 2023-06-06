@@ -158,6 +158,47 @@ section {
   padding-bottom: 20px;
 }
 
+/* add styling to hire me section */
+.hire-me .section-title {
+  font-size: 55px;
+  padding-bottom: 20px;
+}
+
+.hire-me {
+  background-color: #ffc6c3;
+}
+
+.hire-me .comment {
+  font-size: 23px;
+}
+
+.hire-me .form-input-hire {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 30%;
+  margin-bottom: 15px;
+}
+
+.hire-me .submit {
+  color: #ffc6c3;
+  background-color: #69645b;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.hire-me .comment {
+  font-size: 23px;
+}
+
+.hire-me .content {
+  font-size: 20px;
+}
+
+
 
 
 
