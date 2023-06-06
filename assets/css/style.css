@@ -36,4 +36,66 @@ header nav {
     margin: 0 30px;
     font-size: 22px;
   }
+
+/* apply styling to the hero section */
+section {
+  padding: 60px;
+}
+
+.hero {
+  background-image: url(../images/kim.png);
+  height: 600px;
+  background-size: contain;
+  background-position: top;
+  position: relative;
+}
+
+.hero .form {
+  background-color: #ffc6c3;
+  padding: 20px;
+  width: 500px;
+  color: #69645b;
+  border: solid 3px #69645b;
+  padding: 20px;
+  width: 500px;
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
+}
+
+.hero .form p {
+  margin: 5px 0 15px 0;
+}
+
+.hero .form h3 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.hero .form p {
+  margin: 5px 0 15px 0;
+}
+
+.form-input {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.hero .form button {
+  color: #ffc6c3;
+  background-color: #69645b;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+
+
+
+
   
