@@ -9,6 +9,19 @@ body {
     color: #69645b;
 }
 
+/* apply styling to social media icons */
+.social {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.social i {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  font-size: 23px;
+}
+
 /* apply styling to the header section */
 header img {
     font-size: 36px;
