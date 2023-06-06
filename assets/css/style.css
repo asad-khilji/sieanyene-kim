@@ -272,6 +272,38 @@ section {
   padding: 20px;
 }
 
+/* apply styling to contact section */
+.contact .section-title {
+  font-size: 55px;
+}
+
+.contact {
+  background-color: #ffc6c3;
+}
+
+.contact .comment {
+  font-size: 22px;
+}
+
+.contact .form-input-hire {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 30%;
+  margin-bottom: 15px;
+}
+
+.contact .content {
+  font-size: 23px;
+}
+
+.contact .social {
+  text-align: left;
+  margin-top: -20px;
+}
+
 
 
 
