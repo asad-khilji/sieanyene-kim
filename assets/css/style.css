@@ -392,6 +392,18 @@ footer .row .col-3 .link {
   margin-right: -200px;
  }
 
+ .contact .form-input-hire {
+  width: 100%;
+}
+
+.hire-me .form-input-hire {
+  width: 100%;
+}
+
+.booking .form-input-hire {
+  width: 100%;
+}
+
 
 }
 
